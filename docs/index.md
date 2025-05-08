@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# 记录
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+心血来潮建立起了一个博客
 
-## Commands
+但完全不知道要拿来做什么
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+可能会变成大型的一路楼
 
-## Project layout
+也有可能是一本日记本
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+谁也不知道www
